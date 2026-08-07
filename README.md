@@ -60,7 +60,7 @@ The dataset includes the following information:
 
 ## 📷 Dashboard Preview
 
-![Amazon Sales Dashboard](images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
