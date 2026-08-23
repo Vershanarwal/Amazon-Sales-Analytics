@@ -84,7 +84,6 @@ The dataset includes the following information:
 
 ⭐ If you found this project helpful, consider giving it a star on GitHub!
 
-Thank you for visiting this repository.
 
 ## 📄 Disclaimer
 
@@ -97,3 +96,4 @@ This project is licensed under the MIT License. See the **LICENSE** file for mor
 
 
 **Aspiring Data Analyst | Power BI | Data Analytics | Data Science Learner**
+## Thank you for visiting this repository.
